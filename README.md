@@ -4,111 +4,118 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 
 ## 📚 Topics Covered
 
+🎯 Week1
+
 1. **HTML**
--🌏 Arabic
+
+- 🌏 Arabic
+
 -(https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 - or
 - (https://www.youtube.com/watch?v=Dv39fDYei9A&list=PLknwEmKsW8OuN04Odt2sJqt4aAnkp-iYA)
-1. **PHP Basics**
-   - PHP Syntax and Language Basics
-   - Variables and Data Types
-   - Control Structures (if, switch, loops)
-   - Functions and Scope
 
-2. **Object-Oriented Programming (OOP) in PHP**
-   - Classes and Objects
-   - Inheritance, Interfaces, and Traits
-   - Encapsulation and Polymorphism
-   - Namespaces and Autoloading
+- 🎯 Week2
+- 
+ 2.  **CSS**
+  
+  - 🌏 Arabic
+ 
+  - (https://www.youtube.com/watch?v=Z-5QVutAEW4&pp=ygUQY3NzIGNyYXNoIGNvdXJzZQ==)
+  - 
+  - 🎯 Week3
+  - 
+  - 3.**Jave Script**
+ 
+  - - 🌏 Arabic
+   
+    - [169 -> 188] (https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+   
+    - 🎯 Week4
+   
+    - 4.**Git & GitHub**
+   
+       - 🌏 Arabic
+     
+        - (https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+     
+        - or
+     
+        - (https://www.youtube.com/watch?v=Q6G-J54vgKc&t=17346s&pp=ygUNZ2l0aHViINi02LHYrQ==)
+     
 
-3. **Working with Databases**
-   - Introduction to SQL
-   - PDO vs. MySQLi
-   - CRUD Operations
-   - Database Design and Normalization
+   - 🎯 Week5
+ 
+   - - 5.**Network Fundamentals**
+    - 🌏 Arabic
+    - (https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
+    - 🌏 English
+    - https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl
+ 
+    . Sql or Nosql (https://www.youtube.com/watch?v=1Sb2wC7S5Rw&pp=ygUUc3FsIGFuZCBub3NxbCDYtNix2K0=)
+ 
+    -  🎯 Week6
+  
+6. **PHP Basics**
+- - 🌏 Arabic
+  - 
+  [1 -> 52]( https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
+- or
+- (https://www.youtube.com/watch?v=l66t7kBmbTM&list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_)
+-  🎯 Week7
+  
+7. **PHP Basics**
+8.  - 🌏 Arabic
+  - 
+[53 -> 105]( https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
+- or
+- (https://www.youtube.com/watch?v=l66t7kBmbTM&list=PLMTdZ61eBnypZGBMDMGYI48WfZEyAgQK_)
+- +(php testing)
+- [68-70] (https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+- 
+-  🎯 Week8
+3. **Object-Oriented Programming (OOP) in PHP**
+   -- 🌏 Arabic
+   (https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+   - 🌏 English
+   (https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy)
 
-4. **Security**
-   - Input Validation and Sanitization
-   - SQL Injection Prevention
-   - Cross-Site Scripting (XSS) Protection
-   - Secure Password Storage (Hashing, Salting)
-
-5. **APIs**
-   - Introduction to RESTful APIs
-   - Consuming External APIs
-   - Building a REST API with PHP
-   - Authentication and Authorization (JWT, OAuth)
-
-6. **Error Handling and Debugging**
-   - PHP Error Types (Warnings, Notices, Fatal Errors)
-   - Exception Handling with `try/catch`
-   - Logging Errors
-   - Debugging Techniques and Tools (Xdebug, var_dump, etc.)
-
-7. **File Handling**
-   - Reading and Writing Files
-   - Uploading Files
-   - Handling CSV, JSON, and XML Files
-
-8. **Composer and Dependency Management**
-   - Introduction to Composer
-   - Managing Dependencies
-   - Autoloading with Composer
-   - Popular PHP Packages and Libraries
-
-9. **PHP Frameworks**
-   - Introduction to MVC Architecture
-   - Overview of Popular Frameworks (Laravel, Symfony, CodeIgniter)
-   - When and Why to Use a Framework
-
-10. **Testing**
-    - Unit Testing with PHPUnit
-    - Functional Testing
-    - Mocking and Test-Driven Development (TDD)
-
-## 📈 Roadmap
-
-Here is the recommended path to mastering PHP Backend Development:
-
-1. **Learn the Basics**
-   - Start by understanding the syntax, variables, and control structures.
-   - Practice by building small scripts.
-
-2. **Explore OOP**
-   - Deepen your understanding of object-oriented principles.
-   - Build a small project using classes, inheritance, and interfaces.
-
-3. **Work with Databases**
-   - Learn to interact with databases using PDO.
-   - Build a CRUD (Create, Read, Update, Delete) application.
-
-4. **Focus on Security**
-   - Implement input validation, SQL injection protection, and secure password hashing.
-
-5. **Build and Consume APIs**
-   - Create your own REST API and experiment with consuming external APIs.
-
-6. **Error Handling and Debugging**
-   - Practice proper error handling and explore debugging tools.
-
-7. **Use Composer**
-   - Learn to manage dependencies and explore useful PHP packages.
-
-8. **Explore a Framework**
-   - Get familiar with a popular PHP framework like Laravel or Symfony.
-
-9. **Testing**
-   - Start writing unit tests for your applications and adopt TDD.
-
-## 🌐 Resources
-
-- [PHP Official Documentation](https://www.php.net/docs.php)
-- [Composer Documentation](https://getcomposer.org/doc/)
-- [Laravel Documentation](https://laravel.com/docs)
-- [Symfony Documentation](https://symfony.com/doc/current/index.html)
-- [PHP: The Right Way](https://phptherightway.com/)
-
----
-
-By following this roadmap and exploring the provided resources, you will develop strong PHP backend development skills.
+-  🎯 Week9
+5. **Working with Databases [MySql]**
+   **pdo**
+   (https://www.youtube.com/watch?v=ctZ4r3OfD1Y&pp=ygUUY29uZWN0IG15IHNxbCBpbiBwaHA=)
+   [MySql]
+   - -- 🌏 Arabic
+   - [2] (https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB)
+   - or
+   - (https://www.youtube.com/watch?v=DftlOK7fCtc&list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+  -  🎯 Week10
+5. **Working with Databases [MySql]**
+   - -- 🌏 Arabic
+   - [3] (https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB)
+   - or
+   - (https://www.youtube.com/watch?v=DftlOK7fCtc&list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+  -  🎯 Week11
+  5. **Working with Databases [MySql]**
+   - -- 🌏 Arabic
+   - [4] (https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB)
+   - or
+   - (https://www.youtube.com/watch?v=DftlOK7fCtc&list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+    -  🎯 Week12
+  5. **Working with Databases [MySql]**
+   - -- 🌏 Arabic
+   - [5] (https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB)
+   - or
+   - (https://www.youtube.com/watch?v=DftlOK7fCtc&list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+   - 
+  🎯 Week13
+**Introduction Laravel**
+   -- 🌏 Arabic
+     (https://www.youtube.com/watch?v=Q4z6U23cTVc&t=1268s&pp=ygUIbGFyYXZlbCA=)
+🎯 Week15
+-- 🌏 Arabic
+     (https://www.youtube.com/watch?v=Q4z6U23cTVc&t=1268s&pp=ygUIbGFyYXZlbCA=)
+     🎯 Week16 --> End
+     -- 🌏 Arabic
+     (https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
+     
 
