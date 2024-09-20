@@ -22,7 +22,7 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 
 ### 🎯 Week 3: **JavaScript**
 - 🌍 Arabic:
-  - [JavaScript Course (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) (Full playlist: 200+ videos)
+  - [JavaScript Course (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) (Full playlist: 200+ videos -> 169 -> 188)
   
 ---
 
