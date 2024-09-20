@@ -93,14 +93,15 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 - and
 - 🌍 Arabic:
   -- [PHP MVC (English)](https://www.youtube.com/watch?v=livbRg5twk8&list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a) 
-
+---
 
 ### 🎯 Week 15-End: **Laravel Basics**
 - 🌍 Arabic:
-  - [Laravel Advanced (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx) 
-
-**Laravel Basics**
+  - [Laravel Basics (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx) 
+---
+**Laravel project**
 - 🌍 Arabic:
   - [Laravel Project (Arabic)](https://www.youtube.com/watch?v=QStpeLp25A4&list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)
   - and
   - - [Laravel Project (English)](https://www.youtube.com/watch?v=C3xNJVtxZEs&list=PLRB0wzP8AS_EQ6oXAjzH1qdpV4eVPd7Tp)
+   
