@@ -4,6 +4,11 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 
 ## 📚 Topics Covered
 
+1. **HTML**
+-🌏 Arabic
+-(https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+- or
+- (https://www.youtube.com/watch?v=Dv39fDYei9A&list=PLknwEmKsW8OuN04Odt2sJqt4aAnkp-iYA)
 1. **PHP Basics**
    - PHP Syntax and Language Basics
    - Variables and Data Types
